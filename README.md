@@ -20,6 +20,8 @@ TBA
 Good performance in programming contests
 
 ### Program Assignment 10 pts
++ [NCTU OJ](https://oj.nctu.me/groups/11/problems/)
+    + Qualification problems are not program assignments, but you should not register this course if you cannot solve them on your own.
 + 1 pts for each of the first 10 solved problems
 + 0.5 for each of the rest problems
 
