@@ -10,7 +10,7 @@
     + Midterm 45 pts, Final 45 pts
         + At least 8 problems
         + At least 5 hours
-
+        +
 |Solved|Points|
 |------|------|
 |0|0|
