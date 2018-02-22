@@ -25,6 +25,7 @@ Good performance in programming contests
 
 ### Midterm 45 pts, Final 45 pts
 At least 8 problems and at least 5 hours
+
 |Solved|Points|
 |------|------|
 |0|0|
