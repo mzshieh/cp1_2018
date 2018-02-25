@@ -4,7 +4,9 @@
 [Min-Zheng Shieh](mailto:mzshieh@nctu.edu.tw)
 
 ## Teaching Assistants
-TBA
++ [frankbozar](http://codeforces.com/profile/frankbozar)
++ [ian9696](http://codeforces.com/profile/ian9696)
++ [HowardChung](http://codeforces.com/profile/HowardChung)
 
 ## Lectures
 5IJK @ ED117
@@ -24,6 +26,7 @@ Good performance in programming contests
     + Qualification problems are not program assignments, but you should not register this course if you cannot solve them on your own.
 + 1 pts for each of the first 5 solved problems
 + 0.5 for each of the rest problems
++ Deadline: Sat 23:59:59
 
 ### Midterm 45 pts, Final 45 pts
 At least 8 problems and at least 5 hours
