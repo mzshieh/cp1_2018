@@ -4,6 +4,7 @@
 [Min-Zheng Shieh](mailto:mzshieh@nctu.edu.tw)
 
 ## Teaching Assistants
+2018 ACM-ICPC World Finalists
 + [frankbozar](http://codeforces.com/profile/frankbozar)
 + [ian9696](http://codeforces.com/profile/ian9696)
 + [HowardChung](http://codeforces.com/profile/HowardChung)
