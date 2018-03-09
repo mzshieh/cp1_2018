@@ -1,3 +1,89 @@
+## Lecture 1: Introduction
+
+### Develop environment
+National Colligiate Programming Contest (NCPC) and International Colligiate Programming Contest (ICPC) usually provide GNU/Linux.
+
+### Terminal
+
++   Compile
+    +   GNU Compiler Collection (`gcc` for C and `g++` for C++)
+        +   `-o`: set output
+            +   Without `-o`, the default output is `a.out`
+        +   `-O2`: optimization
+        +   `-std=c11`: use C11
+        +   `-std=c++11`: use C++11
+    +   Java: `javac` Main.java
++   Execution
+    +   `./a.out`
+    +   `java Main`
+        +   `-Xmx=1024m`: set the maximum heap memory
+        +   `-Xss=8m`: set the maximum stack memory
++   I/O redirection
+    +   Input: `<`
+    +   Output: `>`
+    +   Error: `2>`
+    +   Example: `./a.out < the.in > the.out 2> the.err`
++   Execution time measurenment
+    +   Use `time`
+    +   Example: `time ./a.out < the.in > the.out`
+        +   Runs `a.out`
+        +   Use `the.in` as the input
+        +   `the.out` stores the output
+        +   The terminal displays the error messages and execution time.
+
+### I/O processing templates
+
++	[`eof_fgets.cpp`](eof_fgets.cpp) for line-based input terminated by End-Of-File
++	[`eof_scanf.cpp`](eof_scanf.cpp) for token-based input terminated by End-Of-File
++	[`token_on_a_line.cpp`](token_on_a_line.cpp) for variable numbers of tokens on a line
+
+### String Tokenizer
+
++	C
++	Java
++	Python 3
+
+### Online judge systems
+
++   [UVa](https://uva.onlinejudge.org/)
++   [CodeForces](http://codeforces.com/)
++   [NCTU OJ](https://oj.nctu.me/)
++   [PKU](http://poj.org/)
++   [AtCoder](http://atcoder.jp/)
++   [HDOJ](http://acm.hdu.edu.cn/)
+
+### Judge responses
+
+Sample problems:
+[CodeForces 319 Div 2 A](http://codeforces.com/contest/577/problem/A), 
+[CodeForces 340 Div 2 A](http://codeforces.com/problemset/problem/617/A), 
+[CodeForces 340 Div 2 B](http://codeforces.com/problemset/problem/617/B). 
+
++   CE - Compilation Error
+
+    CodeForces 340 Div 2 A: [`CE-cf340_div2_A.cpp`](CE-cf340_div2_A.cpp)
++   WA - Wrong Answer
+
+    CodeForces 340 Div 2 A: [`WA-cf340_div2_A.cpp`](WA-cf340_div2_A.cpp)
++   RE - Rumtime Error
+
+    CodeForces 319 Div 2 A: [`RE-cf319_div2_A.c`](RE-cf319_div2_A.c)
++   TLE - Time Limit Exceeded
+
+    CodeForces 319 Div 2 A: [`TLE-cf319_div2_A.c`](TLE-cf319_div2_A.c)
+    
+    CodeForces 340 Div 2 B: [`TLE-cf340_div2_B.cpp`](TLE-cf340_div2_B.cpp)
++   MLE - Memory Limit Exceeded
+
+    CodeForces 319 Div 2 A: [`MLE-cf319_div2_A.c`](MLE-cf319_div2_A.c)
++   AC - Accepted
+
+    CodeForces 319 Div 2 A: [`AC-cf319_div2_A.c`](AC-cf319_div2_A.c)
+    
+    CodeForces 340 Div 2 A: [`AC-cf340_div2_A.cpp`](AC-cf340_div2_A.cpp)
+    
+    CodeForces 340 Div 2 B: [`AC-cf340_div2_B.cpp`](AC-cf340_div2_B.cpp)
+
 ## Two approches to solve a problem
 
 You have already known the following two approaches.
@@ -55,17 +141,3 @@ The following algorithms are frequently used in programming contest.
 +   [`lower_bound()`](http://www.cplusplus.com/reference/algorithm/lower_bound/)
 +   [`upper_bound()`](http://www.cplusplus.com/reference/algorithm/upper_bound/)
 +   [`next_permutation()`](http://www.cplusplus.com/reference/algorithm/next_permutation/)
-
-### Programming assignment (Due: 23:59:59, Mar 25, 2017)
-
-We will put the problems to NCTU OJ after examine the test cases.
-
-+	[Problem C](PC.pdf) [Submit here](https://oj.nctu.me/groups/2/problems/10512/)
-+	[Problem D](PD.pdf)
-
-### Practice
-
-+   [UVa 514](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=455)
-+   [NCTU OJ 10032](https://oj.nctu.me/groups/1/problems/10032/)
-+   [NCTU OJ 10024](https://oj.nctu.me/groups/1/problems/10024/)
-+   [NCTU OJ 10025](https://oj.nctu.me/groups/1/problems/10025/) 
