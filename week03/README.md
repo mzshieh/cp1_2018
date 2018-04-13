@@ -18,6 +18,7 @@ National Colligiate Programming Contest (NCPC) and International Colligiate Prog
     +   `java Main`
         +   `-Xmx=1024m`: set the maximum heap memory
         +   `-Xss=8m`: set the maximum stack memory
+    +   `python main.py`
 +   I/O redirection
     +   Input: `<`
     +   Output: `>`

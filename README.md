@@ -18,6 +18,9 @@
 ## Previous Lectures
 [Google Photos](https://goo.gl/photos/QDtGKcUWEQNqWiDQ8)
 
+## Lecture Notes
+[OneNote](https://nctuitsc-my.sharepoint.com/:o:/g/personal/mzshieh_o365_nctu_edu_tw/EuF3SpJ9SklHqPgQRtc5NycBXIYFKYXCjoZAcwEj3fCpyw?e=gygJXf)
+
 ## Grading policy
 ### Bonus at most 100 pts
 Good performance in programming contests
