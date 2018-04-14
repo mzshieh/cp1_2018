@@ -1,0 +1,24 @@
+10 23
+insert 1 8
+insert 1 7
+insert 1 4
+insert 1 1
+lookup 1
+insert 2 2
+insert 2 6
+insert 2 -100
+lookup 2
+join 1 2
+lookup 1
+join 1 2
+lookup 2
+extract 3
+extract 1
+extract 1
+extract 1
+insert 2 5
+join 2 1
+extract 1
+extract 2
+extract 2
+extract 2
